@@ -1,8 +1,8 @@
 # Eccomerce Application - Full 'MERN' Stack
 
 Tools:
-- Backend: Express, MongoDb, Node.js
-- Frontend: React.js (HTML, Tailwind CSS, Javascript)
+- Backend: Express, MongoDb, Node.js, Cloudinary, Multer
+- Frontend: React.js (Javascript, HTML, Tailwind CSS)
 
 ## Screenshots
 
